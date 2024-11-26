@@ -11,5 +11,9 @@
         "src": "/(.*)",
         "dest": "src/app.js"
       }
-    ]
+    ],
+    "env": 
+    {
+        "NODE_VERSION": "18"
+    }
 }  
