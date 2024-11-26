@@ -1,0 +1,5 @@
+{
+  "PORT": 8080,
+  "mongo_connection_string": "mongodb+srv://main:4fEtNbRYRkKb9gBs@cluster0.vswxpuo.mongodb.net/?retryWrites=true&w=majority",
+  "mongo_database": "molyreporter"
+}
